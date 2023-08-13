@@ -6,10 +6,10 @@ const StyledLoading = styled.div`
   width: 100%;
 
   &::before {
-    color: #fff;
-    content: "Working on it...";
+    color: blue;
+    content: "";
     display: flex;
-    font-size: 12px;
+    font-size: 22px;
     justify-content: center;
     mix-blend-mode: difference;
     padding-top: 18px;
