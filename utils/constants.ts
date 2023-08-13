@@ -298,8 +298,9 @@ export const DYNAMIC_EXTENSION = new Set([
 ]);
 
 export const SAVE_TITLE_CHAR = "\u25CF";
+// black circle
 
-export const ROOT_NAME = "My PC";
+export const ROOT_NAME = "Files";
 
 export const ROOT_SHORTCUT = `${ROOT_NAME}.url`;
 
